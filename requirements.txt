@@ -1,0 +1,14 @@
+numpy
+matplotlib
+pandas
+openai
+snowflake-connector-python
+streamlit==1.28.1
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langgraph
+faiss-cpu
+plotly
+snowflake-sqlalchemy
